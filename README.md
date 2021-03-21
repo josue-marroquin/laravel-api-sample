@@ -1,10 +1,8 @@
-<h2>Si lo tuyo es leer..<h2>
+<h2>Laravel API Sample<h2>
 
 <p class="info">
-    Puede que encuentres este proyecto facil de entender y como un punto de partida para
-implementar distintos models de API para distintos propositos.
-</p>
+Este repositorio contiene una API creada con TDD (Test Driven Development) en Laravel 8.
+Todos los metodos contienen comentarios que explican cual es su funcionamiento y es unn punto de partida para iniciar de forma agil con una api orientada a pruebas.
 
-<p>
-    Solamente necesitas clonar el proyecto y en cada uno de los controladores creados encontraras la informacion
-relevante comentada.
+Será necesario hacer <code>composer install</code> para agregar dependencias y listo.
+</p>
